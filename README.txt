@@ -31,3 +31,5 @@ IMPORTANTE: Siempre revisar en que rama estan trabajando antes de hacer un commi
             Se crearon tres ramas Development, 2 y 3. En la rama Development estara el proyecto base y donde se aplicaran
             los cambios finales. En las ramas 2 y 3 se trabajaran los componentes y cualquier avance de back o fornt-end.
 
+
+
