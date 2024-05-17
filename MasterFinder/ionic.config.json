@@ -1,0 +1,7 @@
+{
+  "name": "MasterFinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
