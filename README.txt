@@ -21,11 +21,22 @@
 
 ##Para hacer un commit en ramas especificas##
 
--Utilizar lo siguiente:
+- Utilizar lo siguiente:
 
     -git add .
     -git commit -m "first commit"
     -git push -u + origin y el nombre especifico de la rama.
+
+##Node##
+
+- Para poder correr el servidor deberan actualizar la version de node a minimo 18.13
+
+##Ionic##
+
+- Dos formas de correr el servidor:
+
+  - Ionic lab -- Probablemente les pedida instalar algo le dan que si.
+  - Ionic serve -- version de navegador.
 
 IMPORTANTE: Siempre revisar en que rama estan trabajando antes de hacer un commit para evitar errores,
             Se crearon tres ramas Development, 2 y 3. En la rama Development estara el proyecto base y donde se aplicaran
